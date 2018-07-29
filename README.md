@@ -1,4 +1,4 @@
-Completed Collision for the Slap-Side Comedy Club
+Completed Collision for the Split-Side Comedy Club
 
 Teleport locations
 
